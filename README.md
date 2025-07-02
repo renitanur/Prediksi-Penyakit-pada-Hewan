@@ -1,14 +1,22 @@
-#Prediksi Penyakit Pada Hewan
-Deskripsi Proyek: Prediksi penyakit pada hewan ini bertujuan untuk membantu dalam diagnosa penyakit pada hewan menggunakan machine learning. Proyek ini menggunakan algoritma machine learning untuk memprediksi jenis penyakit berdasarkan data kesehatan hewan, termasuk gejala, hasil tes, dan data lainnya.
+# 🐾 Prediksi Penyakit pada Hewan
 
-Fitur:
-Analisis data medis hewan
-Penggunaan model machine learning
-Implementasi prediksi penyakit berdasarkan beberapa gejala yang dimasukkan
-Teknologi:
-Python
-scikit-learn
-pandas
-numpy
-matplotlib
-seaborn
+Proyek ini bertujuan untuk membantu dalam mendiagnosis penyakit pada hewan dengan menggunakan pendekatan **Machine Learning**. Sistem akan memprediksi jenis penyakit berdasarkan data kesehatan hewan seperti gejala, hasil tes, dan data lainnya.
+
+---
+
+## 📌 Fitur
+
+- 📊 Analisis data medis hewan
+- 🧠 Penggunaan model Machine Learning
+- 🩺 Prediksi penyakit berdasarkan gejala yang dimasukkan
+
+---
+
+## 🛠 Teknologi yang Digunakan
+
+- 🐍 Python
+- 🔬 scikit-learn
+- 🧮 pandas
+- ➗ numpy
+- 📈 matplotlib
+- 🌈 seaborn
